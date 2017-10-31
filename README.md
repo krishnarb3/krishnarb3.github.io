@@ -1,2 +1,1 @@
-# krishnarb3.github.io
-Personal Website
+My personal site hosted on Github
