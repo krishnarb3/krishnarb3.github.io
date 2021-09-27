@@ -16,3 +16,5 @@ node_modules/
 # ignore jekyll build directory
 /_site
 
+# ignore idea files
+.idea
